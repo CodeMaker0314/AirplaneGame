@@ -2,7 +2,7 @@
 
 ##遊戲說明
 
-AirplaneGame，為一個player操控飛機消滅怪獸得分的遊戲。
+AirplaneGame，為一個player操控飛機消滅怪獸得分的遊戲。過程中怪獸會不停往下移動若碰到player遊戲將會結束。
 
 ---
 
